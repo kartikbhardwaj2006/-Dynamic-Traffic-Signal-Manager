@@ -1,1 +1,1 @@
-# smart-traffic-managment-system-
+#  Dynamic Traffic Signal Manager
